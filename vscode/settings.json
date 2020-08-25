@@ -1,0 +1,19 @@
+{
+    "python.pythonPath": "/home/sermet/anaconda3/bin/python3",
+    "window.menuBarVisibility": "toggle",
+    "workbench.activityBar.visible": false,
+    "telemetry.enableTelemetry": false,
+    "window.zoomLevel": 0,
+    "python.linting.pylintArgs": ["--errors-only"],
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.wordWrap": "on",
+    "editor.minimap.enabled": false,
+    "editor.detectIndentation": false,
+    "python.linting.pylintPath": "/usr/bin/pylint",
+    "window.titleBarStyle": "custom",
+    "latex-workshop.latex.autoBuild.run": "never",
+    "latex-workshop.view.pdf.viewer": "tab",
+	"latex-workshop.hover.preview.enabled": "true",
+    "workbench.statusBar.visible": false,
+    "workbench.colorTheme": "Dracula"
+}
