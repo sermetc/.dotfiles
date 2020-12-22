@@ -1,0 +1,26 @@
+set nocompatible
+
+set number
+
+set tabstop=2
+
+set shiftwidth=2
+
+set hlsearch
+
+set ignorecase
+
+set incsearch
+
+set noswapfile
+
+set noerrorbells
+
+set laststatus=2
+
+set ruler
+
+syntax on
+colorscheme peachpuff
+
+highlight Comment ctermfg=green
