@@ -1,16 +1,14 @@
 set nocompatible
-
+set termguicolors
 set number
 
-set tabstop=2
-
-set shiftwidth=2
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
 
 set hlsearch
-
-set ignorecase
-
 set incsearch
+set ignorecase
 
 set noswapfile
 
@@ -18,9 +16,16 @@ set noerrorbells
 
 set laststatus=2
 
+set mouse=a
+
 set ruler
 
+set smartindent
+
+set backspace=2
+
 syntax on
-colorscheme peachpuff
+set background=dark
+colorscheme one
 
 highlight Comment ctermfg=green
