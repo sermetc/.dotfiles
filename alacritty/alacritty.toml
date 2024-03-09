@@ -2,18 +2,20 @@ import = [
     "~/.config/alacritty/tokyonight_night.toml"
     ]
 
-[shell]
-program="/bin/zsh"
+#[shell]
+#program="/bin/zsh"
 
 [window]
-opacity=0.95
+opacity=0.8
+option_as_alt="OnlyLeft"
 
 [scrolling]
 history=20000
 
 [font]
 normal={family="GohuFont uni14 Nerd Font Mono", style="Regular"}
-size=12
+offset={x=1, y=0}
+size=15
 
 [cursor]
 style={shape="Block", blinking="On"}
